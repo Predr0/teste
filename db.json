@@ -3,12 +3,14 @@
     {
       "id": 1,
       "login": "admin01",
-      "senha": "123456"
+      "senha": "123456",
+      "email": "admin@gmail.com"
     },
     {
       "id": 2,
       "login": "funcionario01",
-      "senha": "123456"
+      "senha": "123456",
+      "email": "admin@gmail.com"
     }
   ],
   "alunos": [
