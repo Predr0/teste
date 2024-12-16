@@ -3,84 +3,44 @@
     {
       "id": 1,
       "login": "admin01",
-      "senha": "123456",
-      "email": "admin01@academia.com",
-      "admin": true
+      "senha": "123456"
     },
     {
       "id": 2,
       "login": "funcionario01",
-      "senha": "123456",
-      "email": "funcionario01@academia.com",
-      "admin": false
+      "senha": "123456"
     }
   ],
   "alunos": [
     {
       "id": 1,
       "nome": "Aluno 1",
-      "email": "aluno1@academia.com",
-      "telefone": "11999999999",
-      "cpf": "11111111111",
-      "tipoPlano": "mensal"
+      "email": "aluno1@academia.com"
     },
     {
       "id": 2,
       "nome": "Aluno 2",
-      "email": "aluno2@academia.com",
-      "telefone": "11988888888",
-      "cpf": "22222222222",
-      "tipoPlano": "trimestral"
+      "email": "aluno2@academia.com"
     }
   ],
   "funcionarios": [
     {
       "id": 1,
       "nome": "Funcionario 1",
-      "email": "funcionario1@academia.com",
-      "telefone": "21988888888",
-      "cpf": "22222222222",
       "cargo": "Instrutor"
     },
     {
       "id": 2,
       "nome": "Funcionario 2",
-      "email": "funcionario2@academia.com",
-      "telefone": "71966666666",
-      "cpf": "44444444444",
       "cargo": "Personal Trainer"
     }
   ],
   "planos": [
-    { "id": 1, "nome": "diário" },
-    { "id": 2, "nome": "semanal" },
-    { "id": 3, "nome": "mensal" },
-    { "id": 4, "nome": "trimestral" },
-    { "id": 5, "nome": "semestral" }
+    { "id": 1, "nome": "mensal" },
+    { "id": 2, "nome": "trimestral" }
   ],
   "modalidades": [
     { "id": 1, "nome": "Musculação" },
-    { "id": 2, "nome": "Pilates" },
-    { "id": 3, "nome": "Jiu-jitsu" },
-    { "id": 4, "nome": "Spinning" },
-    { "id": 5, "nome": "Muay-thai" }
-  ],
-  "relatorios": [
-    {
-      "id": 1,
-      "tipo": "fluxo_caixa",
-      "periodo": "2024-01",
-      "receitas": 5000,
-      "despesas": 2000,
-      "saldo": 3000
-    },
-    {
-      "id": 2,
-      "tipo": "frequencia",
-      "periodo": "2024-01",
-      "frequenciaDiaria": [20, 25, 30, 28, 22],
-      "frequenciaSemanal": [125],
-      "frequenciaMensal": 500
-    }
+    { "id": 2, "nome": "Pilates" }
   ]
 }
