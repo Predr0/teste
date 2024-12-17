@@ -43,6 +43,8 @@
   ],
   "modalidades": [
     { "id": 1, "nome": "Musculação" },
-    { "id": 2, "nome": "Pilates" }
+    { "id": 2, "nome": "Pilates" },
+    {  "id": 3, "nome": "Muay-Thai" },
+    {  "id": 3, "nome": "Krav-Maga" }
   ]
 }
