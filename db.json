@@ -38,8 +38,8 @@
     }
   ],
   "planos": [
-    { "id": 1, "nome": "mensal", "preço": 120,00 },
-    { "id": 2, "nome": "trimestral", "preço": 300,00 }
+    { "id": 1, "nome": "mensal", "preço": 120.00 },
+    { "id": 2, "nome": "trimestral", "preço": 300.00 }
   ],
   "modalidades": [
     { "id": 1, "nome": "Musculação" },
