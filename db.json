@@ -16,15 +16,24 @@
   "alunos": [
     {
       "id": 1,
-      "nome": "Aluno 1",
+      "nome": "Pedroca",
       "email": "aluno1@academia.com",
-      "modalidades": "Muay-thai"
+      "modalidades": "Muay-thai",
+      "plano": "Trimestral"
     },
     {
       "id": 2,
-      "nome": "Aluno 2",
+      "nome": "Cláudia",
       "email": "aluno2@academia.com",
-      "modalidades": "Pilates"
+      "modalidades": "Pilates",
+      "plano": "Mensal"
+    }
+     {
+      "id": 3,
+      "nome": "gabigol",
+      "email": "gabi@academia.com",
+      "modalidades": "Krav-Maga",
+      "plano": "Trimestral"
     }
   ],
   "funcionarios": [
