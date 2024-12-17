@@ -17,12 +17,14 @@
     {
       "id": 1,
       "nome": "Aluno 1",
-      "email": "aluno1@academia.com"
+      "email": "aluno1@academia.com",
+      "modalidades": "Muay-thai"
     },
     {
       "id": 2,
       "nome": "Aluno 2",
-      "email": "aluno2@academia.com"
+      "email": "aluno2@academia.com",
+      "modalidades": "Pilates"
     }
   ],
   "funcionarios": [
