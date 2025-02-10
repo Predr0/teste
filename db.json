@@ -1,5 +1,5 @@
 {
-  "dados": [
+  "funcionário": [
     {
       "id": 1,
       "login": "admin01",
@@ -12,6 +12,53 @@
       "senha": "123456",
       "email": "admin@gmail.com"
     }
+  ],
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Pedroca",
+      "email": "aluno1@academia.com",
+      "modalidades": "Muay-thai",
+      "plano": "Trimestral"
+    },
+    {
+      "id": 2,
+      "nome": "Cláudia",
+      "email": "aluno2@academia.com",
+      "modalidades": "Pilates",
+      "plano": "Mensal"
+    },
+    {
+      "id": 3,
+      "nome": "gabigol",
+      "email": "gabi@academia.com",
+      "modalidades": "Krav-Maga",
+      "plano": "Trimestral"
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": "Funcionario 1",
+      "cargo": "Instrutor",
+      "celular": "55 32 98501-2158"
+    },
+    {
+      "id": 2,
+      "nome": "Funcionario 2",
+      "cargo": "Personal Trainer",
+      "celular": "55 32 98765-4321"
+    }
+  ],
+  "planos": [
+    { "id": 1, "nome": "Mensal", "preço": 120.99 },
+    { "id": 2, "nome": "Trimestral", "preço": 300.00 }
+  ],
+  "modalidades": [
+    { "id": 1, "nome": "Musculação" },
+    { "id": 2, "nome": "Pilates" },
+    { "id": 3, "nome": "Muay-Thai" },
+    { "id": 3, "nome": "Krav-Maga" }
   ],
   "cadastro": [
     {
