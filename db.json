@@ -10,7 +10,43 @@
       "id": 2,
       "login": "funcionario01",
       "senha": "123456",
-      "email": "admin@gmail.com"
+      "email": "funcionario01@academia.com"
+    },
+    {
+      "id": 3,
+      "login": "admin02",
+      "senha": "abcdef",
+      "email": "admin02@gmail.com"
+    },
+    {
+      "id": 4,
+      "login": "funcionario02",
+      "senha": "abcdef",
+      "email": "funcionario02@academia.com"
+    },
+    {
+      "id": 5,
+      "login": "admin03",
+      "senha": "qwerty",
+      "email": "admin03@gmail.com"
+    },
+    {
+      "id": 6,
+      "login": "funcionario03",
+      "senha": "qwerty",
+      "email": "funcionario03@academia.com"
+    },
+    {
+      "id": 7,
+      "login": "admin04",
+      "senha": "pass123",
+      "email": "admin04@gmail.com"
+    },
+    {
+      "id": 8,
+      "login": "funcionario04",
+      "senha": "pass123",
+      "email": "funcionario04@academia.com"
     }
   ],
   "alunos": [
@@ -27,6 +63,48 @@
       "email": "aluno2@academia.com",
       "modalidades": "Pilates",
       "plano": "Mensal"
+    },
+    {
+      "id": 3,
+      "nome": "João",
+      "email": "aluno3@academia.com",
+      "modalidades": "Jiu-Jitsu",
+      "plano": "Mensal"
+    },
+    {
+      "id": 4,
+      "nome": "Ana",
+      "email": "aluno4@academia.com",
+      "modalidades": "Karatê",
+      "plano": "Trimestral"
+    },
+    {
+      "id": 5,
+      "nome": "Ricardo",
+      "email": "aluno5@academia.com",
+      "modalidades": "Boxe",
+      "plano": "Mensal"
+    },
+    {
+      "id": 6,
+      "nome": "Juliana",
+      "email": "aluno6@academia.com",
+      "modalidades": "Musculação",
+      "plano": "Trimestral"
+    },
+    {
+      "id": 7,
+      "nome": "Lúcia",
+      "email": "aluno7@academia.com",
+      "modalidades": "Pilates",
+      "plano": "Mensal"
+    },
+    {
+      "id": 8,
+      "nome": "Felipe",
+      "email": "aluno8@academia.com",
+      "modalidades": "Muay-Thai",
+      "plano": "Trimestral"
     }
   ],
   "funcionarios": [
@@ -41,15 +119,62 @@
       "nome": "Funcionario 2",
       "cargo": "Personal Trainer",
       "celular": "55 32 98765-4321"
+    },
+    {
+      "id": 3,
+      "nome": "Funcionario 3",
+      "cargo": "Recepcionista",
+      "celular": "55 32 99876-5432"
+    },
+    {
+      "id": 4,
+      "nome": "Funcionario 4",
+      "cargo": "Personal Trainer",
+      "celular": "55 32 97765-4321"
+    },
+    {
+      "id": 5,
+      "nome": "Funcionario 5",
+      "cargo": "Instrutor de Yoga",
+      "celular": "55 32 96654-3210"
+    },
+    {
+      "id": 6,
+      "nome": "Funcionario 6",
+      "cargo": "Gerente de Operações",
+      "celular": "55 32 95543-2109"
+    },
+    {
+      "id": 7,
+      "nome": "Funcionario 7",
+      "cargo": "Consultor Fitness",
+      "celular": "55 32 94432-1098"
+    },
+    {
+      "id": 8,
+      "nome": "Funcionario 8",
+      "cargo": "Instrutor de Musculação",
+      "celular": "55 32 93321-0987"
     }
   ],
   "planos": [
     { "id": 1, "nome": "Mensal", "preço": 120.99 },
-    { "id": 2, "nome": "Trimestral", "preço": 300.00 }
+    { "id": 2, "nome": "Trimestral", "preço": 300.00 },
+    { "id": 3, "nome": "Semestral", "preço": 550.00 },
+    { "id": 4, "nome": "Anual", "preço": 1000.00 },
+    { "id": 5, "nome": "Mensal ", "preço": 150.00 },
+    { "id": 6, "nome": "Trimestral ", "preço": 300.00 },
+    { "id": 7, "nome": "Semestral", "preço": 550.00 },
+    { "id": 8, "nome": "Anual", "preço": 1000.00 }
   ],
   "modalidades": [
     { "id": 1, "nome": "Musculação" },
     { "id": 2, "nome": "Pilates" },
-    { "id": 3, "nome": "Muay-Thai" }
+    { "id": 3, "nome": "Muay-Thai" },
+    { "id": 4, "nome": "Jiu-Jitsu" },
+    { "id": 5, "nome": "Karatê" },
+    { "id": 6, "nome": "Boxe" },
+    { "id": 7, "nome": "Yoga" },
+    { "id": 8, "nome": "Zumba" }
   ]
 }
